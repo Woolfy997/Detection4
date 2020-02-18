@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200217_223232.jpg</filename>
+	<path>C:\Users\Woolfy\Desktop\object_detection_demo-master\data\images\train\IMG_20200217_223232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3c</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>226</ymin>
+			<xmax>235</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

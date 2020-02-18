@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Konacne slike</folder>
+	<filename>IMG_20200217_2238190.jpg</filename>
+	<path>C:\Users\Milica\Desktop\Konacne slike\IMG_20200217_2238190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Js</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>87</ymin>
+			<xmax>493</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Js</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>442</ymin>
+			<xmax>496</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

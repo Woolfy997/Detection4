@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Konacne slike</folder>
+	<filename>IMG_20200217_223839.jpg</filename>
+	<path>C:\Users\Milica\Desktop\Konacne slike\IMG_20200217_223839.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>260</ymin>
+			<xmax>611</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>269</ymin>
+			<xmax>233</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>
